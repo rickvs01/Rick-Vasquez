@@ -1,0 +1,73 @@
+.gradient-background {
+    background: linear-gradient(300deg, #36306250, #ffffff00, #b81b1b);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+
+.background-header {
+    background-color: #0e0707;
+}
+
+@keyframes gradient-animation {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.accent {
+    color: rgb(212, 2, 2);
+    font-weight: bold;
+}
+
+hr {
+    border: dotted rgb(247, 4, 4);
+    border-bottom: none;
+    width: 20%;
+    text-align: center;
+    margin: 100px auto;
+    align-items: center;
+
+}
+
+.highlight {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.skills
+{
+    list-style-type: none;
+}
+
+.nav-link{
+<<<<<<< HEAD
+    color:rgb(58, 56, 56);
+    text-size-adjust: auto;
+    
+=======
+    color:rgb(58, 56, 56)
+}
+
+.roundedEdges{
+    border-radius: 7%;
+>>>>>>> f9e1c4a70521cece7a3684d9519145ec525b2277
+}
+
+.poppins{
+    font-family: Poppins, sans-serif
+}
+<<<<<<< HEAD
+
+.roundedEdges{
+    border-radius: 7%;
+}
+=======
+>>>>>>> f9e1c4a70521cece7a3684d9519145ec525b2277
