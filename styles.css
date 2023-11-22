@@ -48,26 +48,17 @@ hr {
 }
 
 .nav-link{
-<<<<<<< HEAD
-    color:rgb(58, 56, 56);
-    text-size-adjust: auto;
-    
-=======
     color:rgb(58, 56, 56)
 }
 
 .roundedEdges{
     border-radius: 7%;
->>>>>>> f9e1c4a70521cece7a3684d9519145ec525b2277
 }
 
 .poppins{
     font-family: Poppins, sans-serif
 }
-<<<<<<< HEAD
 
 .roundedEdges{
     border-radius: 7%;
 }
-=======
->>>>>>> f9e1c4a70521cece7a3684d9519145ec525b2277
